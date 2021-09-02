@@ -10,8 +10,6 @@
 
 <p align="center">
   <img src="./img/1.png" width="600" height="400" /> 
-</p>
-<p align="center">
   <img src="./img/2.png" width="600" height="400" /> 
 </p>
 <p align="center">
