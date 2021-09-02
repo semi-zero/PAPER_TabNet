@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-  <img src="1.png" width="400" height="200" /> 
+  <img src="./img/1.png" width="400" height="200" /> 
 </p>
 <p align="center">
   <img src="2.png" width="400" height="200" /> 
