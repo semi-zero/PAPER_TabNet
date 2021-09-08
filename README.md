@@ -5,7 +5,7 @@
 <br/>
 
 - [논문 바로가기](https://arxiv.org/abs/1908.07442)
-- [실습 코드 보러가기]('./TabNet.ipynb)
+- [실습 코드 보러가기]('TabNet.ipynb)
 
 <br/>
 
