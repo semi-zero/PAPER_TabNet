@@ -5,6 +5,7 @@
 <br/>
 
 - [논문 바로가기](https://arxiv.org/abs/1908.07442)
+- [설명 보러가기](https://semizero.tistory.com/6)
 - [실습 코드 보러가기](TabNet.ipynb)
 
 <br/>
